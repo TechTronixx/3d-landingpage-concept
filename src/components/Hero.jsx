@@ -1,7 +1,7 @@
 const Hero = () => {
   return (
     <>
-      <div className="absolute flex text-center flex-col items-center justify-center top-[8rem] font-[500] left-1/2 -translate-x-1/2 tracking-tighter text-8xl">
+      <div className="absolute flex text-center flex-col items-center justify-center top-[7.6rem] font-[500] left-1/2 -translate-x-1/2 tracking-tighter text-8xl">
         <h1 className="masked">macbook pro.</h1>
         <span className="text-[1.1rem] font-normal tracking-tight text-center text-white/80">
           oh so pro!
