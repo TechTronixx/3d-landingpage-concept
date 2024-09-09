@@ -4,7 +4,8 @@ html {
   width: 100%;
   margin: 0;
   padding: 0;
-  font-family: "Helvetica Now Display", sans-serif;
+  /* font-family: "Helvetica Now Display", sans-serif; */
+  font-family: "Helvetica Neue", sans-serif;
 }
 
 #root {
@@ -13,10 +14,10 @@ html {
   overflow: hidden;
 }
 
-@font-face {
+/* @font-face {
   font-family: "Helvetica Now Display";
   src: url("./assets/fonts/HelveticaNowDisplay-Regular.ttf") format("truetype");
-  font-weight: 400;
+  font-weight: 300;
   font-style: normal;
 }
 
@@ -31,5 +32,12 @@ html {
   font-family: "Helvetica Now Display";
   src: url("./assets/fonts/HelveticaNowDisplay-Bold.ttf") format("truetype");
   font-weight: 700;
-  font-style: normal;
+  font-style: bold;
 }
+
+@font-face {
+  font-family: "Helvetica Now Display";
+  src: url("./assets/fonts/HelveticaNowDisplay-Light.ttf") format("truetype");
+  font-style: light;
+  font-weight: 100;
+} */
