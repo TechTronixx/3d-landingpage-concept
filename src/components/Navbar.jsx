@@ -1,7 +1,7 @@
 const navbar = () => {
   return (
     <>
-      <nav className="absolute top-0 z-10 flex items-center justify-between w-screen max-w-6xl px-6 py-4 -translate-x-1/2 text-slate-100/90 left-1/2">
+      <nav className="absolute top-0 z-10 flex items-center justify-between w-screen max-w-6xl px-6 py-4 tracking-tight -translate-x-1/2 text-slate-100/90 left-1/2">
         <div className="flex items-center space-x-2 logo">
           {/* Logo */}
           <img src="./appleb.png" alt="logo" className="h-12 w-15" />

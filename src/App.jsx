@@ -1,7 +1,7 @@
 import { Canvas } from "@react-three/fiber";
 import "./styles.css";
 import { Environment, ScrollControls } from "@react-three/drei";
-import LaptopContainer from "../src/assets/components/LaptopContainer";
+import LaptopContainer from "./3D_components/LaptopContainer";
 import "./index.css";
 import "./maskedText.css";
 import Navbar from "./components/Navbar";
